@@ -1,0 +1,2 @@
+# auto-nginx
+automação nginx
